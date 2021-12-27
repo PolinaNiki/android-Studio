@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FILMOFFER</string>
+
+    <array name="films">
+        <item>Once upon a time in Hollywood</item>
+        <item>Kill Bill</item>
+        <item>Hunger games</item>
+        <item>Harry Potter</item>
+        <item>Alladin</item>
+
+    </array>
+</resources>
